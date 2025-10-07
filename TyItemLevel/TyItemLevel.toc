@@ -1,0 +1,9 @@
+## Interface: 110200
+## Title: TyItemLevel
+## Author: swaynee
+## version 1.0
+## DefaultState: Enabled
+## SavedVariables: TyItemLevelDB
+
+TyItemLevel.lua
+TyItemLevel_Config.lua
